@@ -1,0 +1,9 @@
+[submodule "family-tree-frontend"]
+	path = family-tree-frontend
+	url = ./family-tree-frontend
+[submodule "family-tree-backend"]
+	path = family-tree-backend
+	url = ./family-tree-backend
+[submodule "family-tree-database"]
+	path = family-tree-database
+	url = ./family-tree-database
