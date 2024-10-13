@@ -1,6 +1,6 @@
 [submodule "family-tree-frontend"]
 	path = family-tree-frontend
-	url = ./family-tree-frontend
+	url = https://github.com/JulianRotti/family-tree-frontend.git
 [submodule "family-tree-backend"]
 	path = family-tree-backend
 	url = ./family-tree-backend
